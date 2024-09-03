@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677857731211",
+    "project_id": "multimedia-telltales",
+    "storage_bucket": "multimedia-telltales.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677857731211:android:275f347e9e0e008fcbaa8e",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRBSuy6iJbqPSbcRogFCepgDVUSAqrUlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
